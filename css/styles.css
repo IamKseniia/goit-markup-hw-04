@@ -409,13 +409,13 @@ img {
 
 .footer {
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .footer-container {
   display: flex;
   align-items: baseline;
-  padding-top: 100px;
-  padding-bottom: 100px;
 }
 
 .footer-container-logo {
